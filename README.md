@@ -1,4 +1,4 @@
-## estagio-pigz
+# estagio-pigz
 Desafio para estágio como Designer na Pigz. 
 
 ## Regras básicas
@@ -16,7 +16,7 @@ Pensando nisso, desenvolvemos o Pigz Comanda. Nosso módulo para pedidos de coma
 ## Depois de todas essas informações, vamos ao Desafio.
 Precisamos anunciar essa grande novidade aos nossos clientes (lojas) para que eles se interessem em ativar o novo módulo Pigz Comanda. Para isso, vamos publicar em nosso feed e stories do Instagram e Facebook, e também em listas de transmissão do WhatsApp cards criativos para atrair esse público-alvo.
 
-# Detalhes
+## Detalhes
 - Nosso tom de voz: Positivo, animado e informal
 - O que deve ter no layout: a palavra “Comanda”; nossa marca e o slogan “Tudo o que você precisa”; nossa cor institucional;
 - Tipo de publicação: imagem única ou carrossel para feed; imagem para Stories; imagem para lista de transmissão do WhatsApp;
