@@ -22,6 +22,7 @@ Precisamos anunciar essa grande novidade aos nossos clientes (lojas) para que el
 - Tipo de publicação: imagem única ou carrossel para feed; imagem para Stories; imagem para lista de transmissão do WhatsApp;
 - Diferencial: um copy bem elaborado para a imagem e a legenda terá um “turbo” na avaliação.
 - Na pasta “assets” incluímos algumas imagens das telas para mockups.
+- Nossa tipografia: https://fonts.google.com/specimen/Poppins
 
 
 
