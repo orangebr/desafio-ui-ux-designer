@@ -1,29 +1,22 @@
-# estagio-pigz
-Desafio para estágio como Designer na Pigz. 
-
-## Regras básicas
-1. Você deverá enviar o material criado no formato PNG.
-2. Caso não consiga concluir todos os passos, não se preocupe, nos envie mesmo assim o que você fez para que possamos avaliar.
-3. Você pode escolher a ferramenta que tiver mais conhecimento para criar as peças;
+# desafio-ui-ux-designer-pigz
+Desafio de Experiência e Interface do Usuário.
 
 ## Uma introdução
-O que é Pigz
+O que é Pigz?
+Pigz é uma plataforma integrada de gestão para o setor de food services, projetada para construir uma comunidade robusta entre empreendedores do ramo alimentício e seus clientes. Ao combinar um marketplace acessível através do site pigz.com.br e de um aplicativo móvel, a Pigz permite que os usuários explorem e façam pedidos em diversas lojas cadastradas na plataforma. Além disso, oferece soluções avançadas de gestão de pedidos, controle de comandas e mesas exclusivamente para os estabelecimentos, facilitando a operação diária e melhorando a experiência do cliente. Diferenciando-se de concorrentes como iFood, Rappi, Daki, Consumer, James Delivery e Aiqfome, a Pigz se posiciona no mercado como a solução "Tudo o que você precisa", mirando em fornecer uma experiência completa tanto para os consumidores quanto para os empreendedores, encapsulando todas as necessidades de marketplace e gestão de negócios em uma única plataforma.
 
-Pigz é uma plataforma de pedidos online com uma missão: criar uma comunidade entre empreendedores e seus clientes consumidores. Nossas soluções incluem site pigz.com.br e app, para que os usuários possam ver as lojas na plataforma e fazer pedidos online e também nossos aplicativos de Gestão de Pedidos para as lojas. Com concorrentes como iFood, Rappi, Daki, Consumer,  James Delivery e Aiqfome, a Pigz busca se posicionar nesse mercado como “Tudo o que você precisa”, ou seja, nosso objetivo é oferecer ao nosso cliente (lojas) uma solução completa de marketplace e gerenciamento de pedidos.
-Pensando nisso, desenvolvemos o Pigz Comanda. Nosso módulo para pedidos de comandas e mesas e via telefone, WhatsApp e mensagens em redes sociais. O Pigz Comanda servirá aos restaurantes como um PDV (Ponto de Venda) Frente de Caixa, proporcionando à loja o controle total sobre os pedidos realizados pelas comandas e mesas em seu estabelecimento, bem como, quando os clientes entrarem em contato com a loja, ela poderá, facilmente, iniciar um novo pedido para delivery ou retirada.
+Como um Designer de Experiência e Interface de Usuário no Pigz, é importante desenvolver habilidades que, além de garantir o correto entendimento das demandas propostas, transforme ideias em funcionalidades que proporcionem a melhor experiência aos nossos usuários.
+Pensando nisso, nosso Time de Experiência precisa apresentar propostas para uma nova funcionalidade: Comanda no APP!
 
+## Objetivo
+Desenvolver uma experiência de autoatendimento inovadora para os clientes da Pigz por meio de uma funcionalidade de comanda no aplicativo. A solução deve permitir que os clientes acessem o cardápio por meio de um QR Code, adicionem produtos à comanda, acompanhem os status do pedido, solicitem atendimento do garçom e finalizem a conta para pagamento, proporcionando uma experiência intuitiva e eficiente.
 
-## Depois de todas essas informações, vamos ao Desafio.
-Precisamos anunciar essa grande novidade aos nossos clientes (lojas) para que eles se interessem em ativar o novo módulo Pigz Comanda. Para isso, vamos publicar em nosso feed e stories do Instagram e Facebook, e também em listas de transmissão do WhatsApp cards criativos para atrair esse público-alvo.
+## Entregáveis
+- Documento que sirva como História do Usuário com detalhes sobre fluxos e ações que o usuário terá/fará nesta nova funcionalidade;
+- Wireframes ou protótipos de baixa fidelidade que demonstrem a interface do usuário e o fluxo de interação da funcionalidade "Comanda no App".
+- Explicações detalhadas sobre as decisões de design tomadas em relação à usabilidade, acessibilidade e estética.
 
-## Detalhes
-- Nosso tom de voz: Positivo, animado e informal
-- O que deve ter no layout: a palavra “Comanda”; nossa marca e o slogan “Tudo o que você precisa”; nossa cor institucional;
-- Tipo de publicação: imagem única ou carrossel para feed; imagem para Stories; imagem para lista de transmissão do WhatsApp;
-- Diferencial: um copy bem elaborado para a imagem e a legenda terá um “turbo” na avaliação.
-- Na pasta “assets” incluímos algumas imagens das telas para mockups.
-- Nossa tipografia: https://fonts.google.com/specimen/Poppins
-
-
+Temos um link de referência para te ajudar:
+https://www.figma.com/file/I7RoXoT2S4dQ3Pz8Py4fvd/Comanda-no-APP---Challenge?type=design&node-id=0%3A1&mode=design&t=dXNwcLSfHWYBQzm7-1
 
 Pronto! Agora é mãos à obra!
